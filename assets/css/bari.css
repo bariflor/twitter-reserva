@@ -1,0 +1,277 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat+Alternates|Pacifico|Sedgwick+Ave+Display');
+*{
+/*	outline: 1px solid red;
+*/	padding: 0;
+	margin: 0;
+}
+body {
+	font-family: 'Montserrat Alternates', sans-serif;
+	background-image: url(https://logoajes.files.wordpress.com/2014/03/fondo-celeste.jpg);
+}
+/*=============================================
+=       Section Cuerpo comentarios          =
+=============================================*/
+#informacion{
+	background-color: #7ccbea;
+	width: 550px;
+	margin-top: 90px;
+}
+#perfil{
+	border-radius: 5px;
+	position: relative;
+	left: 18px;
+	top: 10px;
+}
+#ingresar{
+	width: 440px;
+	height: 30px;
+	margin: 15px;
+	margin-left: 5px;
+	border-radius: 8px;
+	position: relative;
+	left: 20px;
+}
+.icon-camera{
+	color: #7ccbea;
+	position: relative;
+	right: 30px;
+}
+
+/*=====  End of Section comment block  ======*/
+/*=============================================
+
+/*=============================================
+=       Section E! Latin America          =
+=============================================*/
+#latin{
+	width: 550px;
+	height: 100px;
+	background-color: white;
+}
+#e{
+	border-radius: 5px;
+	position: relative;
+	right: 228px;
+	top: 7px;
+}
+h2{
+	font-size: 16px;
+	width: 400px;
+	text-align: left;
+	position: relative;
+	bottom: 50px;
+	right: -5px;
+}
+.text-plomo{
+	color: gray;
+}
+p{
+	font-size: 10px;
+	width: 400px;
+	text-align: left;
+	position: relative;
+	left: 8px;
+	bottom: 50px;
+}
+.text-azul{
+	color: blue;
+}
+
+.icon-circle-down{
+	float: right;
+	color: gray;
+}
+.icon-arrow-left2{
+	position: relative;
+	right: 160px;
+	bottom: 30px;
+	color: gray;
+}
+.icon-loop{
+	position: relative;
+	right: 90px;
+	bottom: 30px;
+	color: gray;
+}
+.icon-heart{
+	color: gray;
+	position: relative;
+	bottom: 30px;
+	right: 10px;
+}
+
+/*=============================================
+=       Section Stalker          =
+=============================================*/
+#stalker{
+	width: 550px;
+	height: 100px;
+	background-color: white;
+	border-top: 1px solid gray;
+}
+.num1{
+	width: 20px;
+	color: gray;
+	position: relative;
+	right: 145px;
+	bottom: 50px;
+}
+.num2{
+	width: 20px;
+	color: gray;
+	position: relative;
+	/*left: 125px;*/
+	right: 50px;
+	bottom: 65px;
+}
+.num3{
+	width: 20px;
+	color: gray;
+	position: relative;
+	left: 40px;
+	bottom: 80px;
+}
+
+/*=============================================
+=       Section Frases de Canciones          =
+=============================================*/
+#frases-canciones{
+	width: 550px;
+	height: 100px;
+	background-color: white;
+	border-top: 1px solid gray;
+}
+.num4{
+	width: 20px;
+	color: gray;
+	position: relative;
+	/*left: 125px;*/
+	right: 50px;
+	bottom: 50px;
+}
+.num5{
+	width: 20px;
+	color: gray;
+	position: relative;
+	left: 40px;
+	bottom: 65px;
+}
+/*=============================================
+=       Section Poemas escritos        =
+=============================================*/
+#poemas-escritos{
+	width: 550px;
+	height: 100px;
+	background-color: white;
+	border-top: 1px solid gray;
+}
+
+/*=============================================
+=       Section Frases de Canciones - 2       =
+=============================================*/
+#frases-canciones-2{
+	width: 550px;
+	height: 100px;
+	background-color: white;
+	border-top: 1px solid gray;
+}
+#twitter{
+	width: 550px;
+	height: 20px;
+	background-color: white;
+	border-top: 1px solid gray;
+}
+.icon-twitter{
+	
+}
+/*=============================================
+=       Section A quién seguir        =
+=============================================*/
+#columna-izq{
+	width: 250px;
+	position: relative;
+	left: 410px;
+	bottom: 588px;
+
+}
+#container{
+	width: 320px;
+	height: 310px;
+	background-color: white;
+	border-radius: 7px;
+	border: 1px solid gray;
+}
+#seguir-azul{
+	font-size: 10px;
+}
+#text-alinear{
+	width: 200px;
+	position: relative;
+	left: 30px;
+}
+.igp-imagen{
+	position: relative;
+	right: 110px;
+	top: 5px;
+}
+.icon-cross{
+	color: gray;
+	font-size: 10px;
+	position: relative;
+	bottom: 69px;
+	left: 180px;	
+}
+.boton-seguir{
+	width: 80px;
+	height: 25px;
+	text-align: center;
+	position: relative;
+	bottom: 40px;
+	right: 40px;
+	border: 1px solid gray;
+	border-radius: 5px;
+}
+/*ericasadun-imagen*/
+.ericasadun-imagen{
+	position: relative;
+	position: relative;
+	right: 110px;
+	top: 5px;
+}
+/*udemy-imagen*/
+.udemy-imagen{
+	position: relative;
+	position: relative;
+	right: 110px;
+	top: 5px;
+}
+#encontrar-amigos{
+	width: 90px;
+	font-size: 10px;
+	position: relative;
+	bottom: 30px;
+	right: 90px;
+}
+/*PRIVACIDAD*/
+#privacidad{
+	width: 287px;
+	height: 100px;
+	background-color: white;
+	border-radius: 7px;
+	border: 1px solid gray;
+	text-align: left;
+	padding: 16px;
+	font-size: 13px;
+	margin-top: 13px;
+}
+/*publicitar*/
+#publicitar{
+	width: 287px;
+	height: 20px;
+	background-color: #7ccbea;
+	border-radius: 7px;
+	border: 1px solid gray;
+	text-align: left;
+	padding: 16px;
+	font-size: 13px;
+}
